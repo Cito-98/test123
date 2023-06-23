@@ -1,0 +1,79 @@
+﻿Malware,Malware Type,"Time it took for Defender to detect 
+the virus after it was downloaded","Time it took for Crytica to detect 
+the virus after it was downloaded"
+Darkbit,Ransomware,Didn't detect it,47
+MortalKombat,Ransomware,435,35
+BianLan,Ransomware,335,133
+Gcleaner,Spyware,360,151
+Neoreklami,Adware,Didn't detect it,121
+HardBit,Ransomware,Didn't detect it,197
+CoinMiner,CoinMiner,288,95
+DarkSide,Ransomware,403,67
+JigwawLocker,Ransomware,420,42
+Ryuk,Ransomware,Didn't detect it,144
+WastedLocker,Ransomware,375,149
+Petya,Ransomware,405,232
+Cerber,Ransomware,335,164
+Phobos,Ransomware,420,128
+Maze,Ransomware,310,57
+Cylance,Ransomware,Didn't detect it,32
+HydraCrypt,Ransomware,400,149
+Conti,Ransomware,341,63
+Nevada,Ransomware,360,61
+Globeimposter,Ransomware,355,104
+Tank Ransom 2.0,Ransomware,Didn't detect it,32
+Vohuk,Ransomware,280,55
+A.E.S.R.T,Ransomware,390,29
+Xorist,Ransomware,420,45
+Lockergoga,Ransomware,480,280
+GpCode,Ransomware,560,37
+Mole,Ransomware,395,58
+Saturn,Ransomware,Didn't detect it,33
+AXLocker,Ransomware,435,83
+Thanos,Ransomware,Didn't detect it,35
+Hermes,Ransomware,480,34
+BlackMatter,Ransomware,375,28
+Seven,Ransomware,360,75
+Void Crypt,Ransomware,75,63
+Makop,Ransomware,Didn't detect it,406
+EternityStealer,Ransomware,360,243
+BlackSnake,Ransomware,330,236
+Matrix,Ransomware,400,156
+Yashma,Ransomware,310,49
+Sage,Ransomware,480,183
+Crypt360,Ransomware,330,135
+RustyStealer,Ransomware,Didn't detect it,43
+Trigona,Ransomware,Didn't detect it,199
+Pandora,Ransomware,335,216
+HelloXD,Ransomware,360,158
+Spora,Ransomware,Didn't detect it,233
+FileCryptor,Ransomware,405,155
+GoodWill,Ransomware,320,114
+Lilith,Ransomware,267,4
+PartyTrick,Ransomware,420,11
+PlutoCrypt,Ransomware,Didn't detect it,156
+Cuba,Ransomware,Didn't detect it,34
+4444,Ransomware,285,43
+CryptFile2,Ransomware,330,79
+Venus,Ransomware,320,13
+Dalexis,Ransomware,Didn't detect it,58
+Snatch,Ransomware,420,107
+Mallox,Ransomware,365,21
+PLAY,Ransomware,305,133
+AvosLocker,Ransomware,330,261
+NightSky,Ransomware,Didn't detect it,144
+Zoeticus,Ransomware,240,147
+Namaste,Ransomware,360,142
+Chaos,Ransomware,Didn't detect it,122
+FireCrypt,Ransomware,Didn't detect it,104
+Virlock,Ransomware,370,42
+DarkPower,Ransomware,225,63
+Surtr,Ransomware,230,31
+Wannacry,Ransomware,390,133
+Babuk,Ransomware,180,86
+Dharma,Ransomware,105,61
+NoEscape,Ransomware,Didn't detect it,78
+Avaddon,Ransomware,165,86
+RedBoot,Ransomware,Didn't detect it,90
+Vipasana,Ransomware,595,199
+Clop,Ransomware,285,67
