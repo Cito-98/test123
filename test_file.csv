@@ -1,10 +1,10 @@
 ﻿Malware,Malware Type,Defender,Crytica
-Darkbit,Ransomware,67,12
-MortalKombat,Ransomware,58,27
-BianLan,Ransomware,46,32
-Gcleaner,Spyware,47,9
-Neoreklami,Adware,39,11
-HardBit,Ransomware,41,22
-CoinMiner,CoinMiner,55,26
-DarkSide,Ransomware,59,29
-JigwawLocker,Ransomware,42,15
+Darkbit,Ransomware,04:20,01:20
+MortalKombat,Ransomware,05:12,02:45
+BianLan,Ransomware,04:16,03:22
+Gcleaner,Spyware,04:37,01:19
+Neoreklami,Adware,03:49,01:01
+HardBit,Ransomware,04:10,02:12
+CoinMiner,CoinMiner,05:56,01:26
+DarkSide,Ransomware,02:59,02:09
+JigwawLocker,Ransomware,04:14,01:58
