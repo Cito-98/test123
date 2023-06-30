@@ -1,5 +1,5 @@
-﻿Malware,Malware Type,Time it took for Defender to detect the virus after it was downloaded,Time it took for Crytica to detect the virus after it was downloaded
-Darkbit,Ransomware,Didn't detect it,47
+﻿Malware,Malware Type,Time it took for Defender to detect the virus after it was downloaded,Time it took for Crytica to detect the virus after it was downloaded, Virus detected by Crytica, Virus detected by Defender
+Darkbit,Ransomware,Didn't detect it,47,79,58
 MortalKombat,Ransomware,435,35
 BianLan,Ransomware,335,133
 Gcleaner,Spyware,360,151
