@@ -10,8 +10,8 @@ DarkSide,Ransomware,403,67
 JigwawLocker,Ransomware,420,42
 Ryuk,Ransomware,Didn't detect it,144
 WastedLocker,Ransomware,375,149
-Petya,Ransomware,405,232
-Cerber,Ransomware,335,164
+Petya,Ransomware,425,27
+Cerber,Ransomware,378,47
 Phobos,Ransomware,420,128
 Maze,Ransomware,310,57
 Cylance,Ransomware,Didn't detect it,32
@@ -23,7 +23,6 @@ Tank Ransom 2.0,Ransomware,Didn't detect it,32
 Vohuk,Ransomware,280,55
 A.E.S.R.T,Ransomware,390,29
 Xorist,Ransomware,420,45
-Lockergoga,Ransomware,480,280
 GpCode,Ransomware,560,37
 Mole,Ransomware,395,58
 Saturn,Ransomware,Didn't detect it,33
@@ -38,18 +37,18 @@ EternityStealer,Ransomware,350,96
 BlackSnake,Ransomware,425,15
 Matrix,Ransomware,400,156
 Yashma,Ransomware,310,49
-Sage,Ransomware,480,183
+Sage,Ransomware,528,26
 Crypt360,Ransomware,330,135
 RustyStealer,Ransomware,Didn't detect it,43
 Trigona,Ransomware,Didn't detect it,199
 Pandora,Ransomware,335,216
 HelloXD,Ransomware,360,158
-Spora,Ransomware,Didn't detect it,233
+Spora,Ransomware,255,52
 FileCryptor,Ransomware,405,155
 GoodWill,Ransomware,320,114
 Lilith,Ransomware,267,4
 PartyTrick,Ransomware,420,11
-PlutoCrypt,Ransomware,Didn't detect it,156
+PlutoCrypt,Ransomware,395,30
 Cuba,Ransomware,Didn't detect it,34
 ¨4444¨,Ransomware,285,43
 CryptFile2,Ransomware,330,79
