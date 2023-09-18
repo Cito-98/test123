@@ -2,7 +2,7 @@
 Darkbit,Ransomware,Didn't detect it,47
 MortalKombat,Ransomware,435,35
 BianLan,Ransomware,335,133
-Gcleaner,Spyware,360,151
+Gcleaner,Spyware,400,55
 Neoreklami,Adware,Didn't detect it,121
 HardBit,Ransomware,Didn't detect it,197
 CoinMiner,CoinMiner,288,95
@@ -41,8 +41,8 @@ Sage,Ransomware,528,26
 Crypt360,Ransomware,330,135
 RustyStealer,Ransomware,Didn't detect it,43
 Trigona,Ransomware,Didn't detect it,199
-Pandora,Ransomware,335,216
-HelloXD,Ransomware,360,158
+Pandora,Ransomware,247,53
+HelloXD,Ransomware,288,35
 Spora,Ransomware,255,52
 FileCryptor,Ransomware,405,155
 GoodWill,Ransomware,320,114
@@ -72,7 +72,7 @@ Dharma,Ransomware,105,61
 NoEscape,Ransomware,Didn't detect it,78
 Avaddon,Ransomware,165,86
 RedBoot,Ransomware,Didn't detect it,90
-Vipasana,Ransomware,595,199
+Vipasana,Ransomware,427,34
 Clop,Ransomware,285,67
 Sfile,Ransomware,65,45
 AstraLocker,Ransomware,Didn't detect it,51
