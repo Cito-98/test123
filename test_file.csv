@@ -40,7 +40,7 @@ Yashma,Ransomware,310,49
 Sage,Ransomware,528,26
 Crypt360,Ransomware,330,135
 RustyStealer,Ransomware,Didn't detect it,43
-Trigona,Ransomware,Didn't detect it,199
+Trigona,Ransomware,424,23
 Pandora,Ransomware,247,53
 HelloXD,Ransomware,288,35
 Spora,Ransomware,255,52
@@ -98,3 +98,4 @@ Nefilim,Ransomware,Didn't detect it,33
 BTCware,Ransomware,350,38
 Cipher,Ransomware,410,24
 Hakbit,Ransomware,Didn't detect it,40
+Elbie,Ransomware,495,23
