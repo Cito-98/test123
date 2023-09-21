@@ -15,7 +15,7 @@ Cerber,Ransomware,378,47
 Phobos,Ransomware,420,128
 Maze,Ransomware,310,57
 Cylance,Ransomware,Didn't detect it,32
-HydraCrypt,Ransomware,400,149
+HydraCrypt,Ransomware,398,68
 Conti,Ransomware,341,63
 Nevada,Ransomware,360,61
 Globeimposter,Ransomware,355,104
@@ -35,7 +35,7 @@ Void Crypt,Ransomware,75,63
 Makop,Ransomware,Didn't detect it,106
 EternityStealer,Ransomware,350,96
 BlackSnake,Ransomware,425,15
-Matrix,Ransomware,400,156
+Matrix,Ransomware,360,50
 Yashma,Ransomware,310,49
 Sage,Ransomware,528,26
 Crypt360,Ransomware,330,135
