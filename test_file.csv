@@ -103,3 +103,6 @@ Diavol,Ransomware,380,16
 Encrpt3d,Ransomware,412,46
 HANTA,Ransomware,Didn't detect it,18
 Suncrypt,Ransomware,420,27
+Golang,Ransomware,377,52
+Maoloa,Ransomware,270,22
+Ouroboros,Ransomware,Didn't detect it,24
