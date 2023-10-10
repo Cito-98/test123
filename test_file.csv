@@ -92,3 +92,22 @@ Alcatraz,Ransomware,Didn't detect it,19
 Balaclava,Ransomware,310,56
 Jormungand,Ransomware,650,27
 Paradise,Ransomware,245,38
+Scarab,Ransomware,385,20
+Rhino,Ransomware,Didn't detect it,34
+Nefilim,Ransomware,Didn't detect it,33
+BTCware,Ransomware,350,38
+Cipher,Ransomware,410,24
+Hakbit,Ransomware,Didn't detect it,40
+Elbie,Ransomware,495,23
+Diavol,Ransomware,380,16
+Encrpt3d,Ransomware,412,46
+HANTA,Ransomware,Didn't detect it,18
+Suncrypt,Ransomware,420,27
+Golang,Ransomware,377,52
+Maoloa,Ransomware,270,22
+Ouroboros,Ransomware,Didn't detect it,24
+Kangaroo,Ransomware,Didn't detect it,24
+Mespinzoa,Ransomware,380,53
+AES64,Ransomware,435,22
+Teslarvng,Ransomware,184.27
+Zeppelin,Ransomware,229,33
