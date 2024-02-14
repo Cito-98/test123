@@ -1,0 +1,15 @@
+Malware,MalwareType,Sentinel,Crytica
+Kuiper,Ransomware,Didn't detect it,11
+TellYouThePass,Ransomware,Didn't detect it,20
+Conti,Ransomware,Didn't detect it,19
+GonnaCry,Ransomware,Didn't detect it,4
+Sodinokibi,Ransomware,Didn't detect it,7
+Chaos,Cryptojacker,Didn't detect it,17
+IceFire,Ransomware,Didn't detect it,12
+Kinsing,Cryptojacker,Didn't detect it,5
+Cylance,Ransomware,Didn't detect it,16
+Cl0p,Ransomware,Didn't detect it,20
+Erebus,Ransomware,Didn't detect it,15
+AvosLocker,Ransomware,Didn't detect it,6
+CobaltStrike,Cryptojacker,Didn't detect it,4
+Buhti,Ransomware,Didn't detect it,12
