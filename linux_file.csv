@@ -7,7 +7,6 @@ CobaltStrike,Cryptojacker,Didn't detect it,31
 Multiverze (trojan),Cryptojacker,422,40
 Multiverze (tool),Cryptojacker,930,37
 Miner-6,Cryptojacker,Didn't detect it,53
-Clop,Ransomware,378,54
 Buhti,Ransomware,Didn't detect it,25
 GonnaCry,Ransomware,Didn't detect it,25
 IceFire,Ransomware,Didn't detect it,18
@@ -20,3 +19,4 @@ Kuiper,Ransomware,Didn't detect it,17
 Chaos,Cryptojacker,488,26
 Kinsing,Cryptojacker,1415,21
 BillGates,Backdoor,1367,19
+Clop,Ransomware,Didn't detect it,21
