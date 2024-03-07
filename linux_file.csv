@@ -1,11 +1,7 @@
 Malware,Malware Type,Defender,Crytica
-Coinminer,Cryptojacker,Didn't detect it, 35
 Sodinokibi,Ransomware,Didn't detect it,15
 Erebus,Ransomware,Didn't detect it,48
-Coinminer (Trojan),Cryptojacker,432,45
 CobaltStrike,Cryptojacker,Didn't detect it,31
-Multiverze (trojan),Cryptojacker,422,40
-Multiverze (tool),Cryptojacker,930,37
 Miner-6,Cryptojacker,Didn't detect it,53
 Buhti,Ransomware,Didn't detect it,25
 GonnaCry,Ransomware,Didn't detect it,25
@@ -20,3 +16,5 @@ Chaos,Cryptojacker,488,26
 Kinsing,Cryptojacker,1415,21
 BillGates,Backdoor,1367,19
 Clop,Ransomware,Didn't detect it,21
+Coinminer,Cryptojacker,1993,18
+Multiverze,Cryptojacker,2131,13
